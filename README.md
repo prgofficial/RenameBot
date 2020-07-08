@@ -3,6 +3,8 @@
 
 An Open Source Rename Telegram RoBot
 
+USE the latest repo with Permanent Thumbnail support >> [RENAMEBOT](https://github.com/prgofficial/RenameBot-PermTB)
+
 **My Feature**:
 
 👉 Rename any Telegram Files with Custom Thumbnail Support
